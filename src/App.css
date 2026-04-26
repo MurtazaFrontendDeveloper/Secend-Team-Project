@@ -2,4 +2,26 @@
 
 /* 
 npx @tailwindcss/cli -i ./src/App.css -o ./src/Master.css --watch
+
+
+website:
+https://preview.colorlib.com/?_gl=1*1vu66t1*_ga*MTY1OTAxODg1My4xNzcxMDQ3MzAw*_ga_SEKJ4E9T4H*czE3NzcyMDAyMzQkbzIkZzEkdDE3NzcyMDAzMTYkajU5JGwwJGgwJGRCUEFWZkYyLUp6OEpuRGF1R0M5ZGV5TkFWazNsclphVzNR#youthconnect;
+
+
  */
+
+
+
+@theme{
+    --color-White:#FFFFFF;
+    --color-Black:#000000;
+    --color-Primary-orange:#ED7D3B;
+    --color-Primary-blue:#A6F3FB;
+    --color-BackGround:#0F0D24;
+    --color-BackGround2:#080716;
+    --color-BackGround3:#411A16;
+    --color-PrimaryText:#06B6D4;
+    --color-WhiteDarker:#99A1AF;
+    --color-darkBlue-background:#1E1B4B;
+    --color-blue-background:#13B7D3;
+}
